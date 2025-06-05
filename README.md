@@ -17,5 +17,5 @@ A blogging website. Post and see blogs. Uses a local MySQL database
        
 ***How to run it?***
 1. Change the username and password in conn.php to your username and password of MySQL server.
-2. 2. Make a database called blol on the server.
+2. Make a database called blol on the server.
 3. Run index.php on live webserver
